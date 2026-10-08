@@ -1,0 +1,3 @@
+// Makes the bundle identifiers unique per development team.
+// Select your team in Signing & Capabilities for both targets; no other change is needed.
+SAMPLE_CODE_DISAMBIGUATOR = ${DEVELOPMENT_TEAM}
